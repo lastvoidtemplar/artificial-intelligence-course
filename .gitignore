@@ -1,0 +1,36 @@
+# --- IDEs / editors ---
+.idea/
+.vscode/
+*.swp
+*~
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- Virtual environments (uv) ---
+.venv/
+venv/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Tooling caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Secrets / local config ---
+.env
+.env.*
+
+# --- Fmi Ai Judge ---
+.judge

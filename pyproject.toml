@@ -1,0 +1,10 @@
+[project]
+name = "artificial-intelligence-course"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "fmi-ai-judge>=0.2.5",
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "numpy>=2.5.4",
+]
