@@ -10,7 +10,7 @@ Materials, exercises and examples for FMI Artificial Intelligence Course
 | 00 | Intro                             |                       -                        |                [PDF](notes/intro/intro.pdf)               |
 | 01 | Blind Search                      |   [PDF](official-materials/blind-search.pdf)   |     [Notebook](notes/blind-search/blind-search.ipynb)     |
 | 02 | Heuristic Search                  | [PDF](official-materials/heuristic-search.pdf) | [Notebook](notes/heuristic-search/heuristic-search.ipynb) |
-| 03 | Constraint Satisfaction Problems  |                                                |                                                           |
+| 03 | Constraint Satisfaction Problems  |       [PDF](official-materials/csp.pdf)        |              [Notebook](notes/csp/csp.ipynb)              |
 | 04 | Genetic Algorithms                |                                                |                                                           |
 | 05 | Games                             |                                                |                                                           |
 | 06 | Machine Learning Intro            |                                                |                                                           |
