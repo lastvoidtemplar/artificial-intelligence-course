@@ -12,7 +12,7 @@ Materials, exercises and examples for FMI Artificial Intelligence Course
 | 02 | Heuristic Search                  | [PDF](official-materials/heuristic-search.pdf) | [Notebook](notes/heuristic-search/heuristic-search.ipynb) |
 | 03 | Constraint Satisfaction Problems  |       [PDF](official-materials/csp.pdf)        |              [Notebook](notes/csp/csp.ipynb)              |
 | 04 | Genetic Algorithms                |     [PDF](official-materials/genetic.pdf)      |          [Notebook](notes/genetic/genetic.ipynb)          |
-| 05 | Games                             |                                                |                                                           |
+| 05 | Games                             |      [PDF](official-materials/games.pdf)       |            [Notebook](notes/games/games.ipynb)            |
 | 06 | Machine Learning Intro            |                                                |                                                           |
 | 07 | kNN                               |                                                |                                                           |
 | 08 | Naive Bayes                       |                                                |                                                           |
