@@ -7,14 +7,14 @@ Materials, exercises and examples for FMI Artificial Intelligence Course
 
 | #  | Topic                             |               Official Materials               |                           Notes                           |
 |----|-----------------------------------|:----------------------------------------------:|:---------------------------------------------------------:|
-| 00 | Intro                             |                       -                        |                [PDF](notes/intro/intro.pdf)               |
+| 00 | Intro                             |                       -                        |               [PDF](notes/intro/intro.pdf)                |
 | 01 | Blind Search                      |   [PDF](official-materials/blind-search.pdf)   |     [Notebook](notes/blind-search/blind-search.ipynb)     |
 | 02 | Heuristic Search                  | [PDF](official-materials/heuristic-search.pdf) | [Notebook](notes/heuristic-search/heuristic-search.ipynb) |
 | 03 | Constraint Satisfaction Problems  |       [PDF](official-materials/csp.pdf)        |              [Notebook](notes/csp/csp.ipynb)              |
 | 04 | Genetic Algorithms                |     [PDF](official-materials/genetic.pdf)      |          [Notebook](notes/genetic/genetic.ipynb)          |
 | 05 | Games                             |      [PDF](official-materials/games.pdf)       |            [Notebook](notes/games/games.ipynb)            |
-| 06 | Machine Learning Intro            |                                                |                                                           |
-| 07 | kNN                               |                                                |                                                           |
+| 06 | Machine Learning Intro            |     [PDF](official-materials/ml-intro.pdf)     |         [Notebook](notes/ml-intro/ml-intro.ipynb)         |
+| 07 | kNN                               |       [PDF](official-materials/knn.pdf)        |              [Notebook](notes/knn/knn.ipynb)              |
 | 08 | Naive Bayes                       |                                                |                                                           |
 | 09 | Decision Tree                     |                                                |                                                           |
 | 10 | Clustering                        |                                                |                                                           |
