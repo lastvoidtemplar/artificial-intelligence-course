@@ -14,7 +14,7 @@ Materials, exercises and examples for FMI Artificial Intelligence Course
 | 04 | Genetic Algorithms                |     [PDF](official-materials/genetic.pdf)      |          [Notebook](notes/genetic/genetic.ipynb)          |
 | 05 | Games                             |      [PDF](official-materials/games.pdf)       |            [Notebook](notes/games/games.ipynb)            |
 | 06 | Machine Learning Intro            |     [PDF](official-materials/ml-intro.pdf)     |         [Notebook](notes/ml-intro/ml-intro.ipynb)         |
-| 07 | kNN                               |       [PDF](official-materials/knn.pdf)        |              [Notebook](notes/knn/knn.ipynb)              |
+| 07 | kNN                               |       [PDF](official-materials/knn.pdf)        |                             -                             |
 | 08 | Naive Bayes                       |                                                |                                                           |
 | 09 | Decision Tree                     |                                                |                                                           |
 | 10 | Clustering                        |                                                |                                                           |
