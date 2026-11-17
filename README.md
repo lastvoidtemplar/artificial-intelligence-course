@@ -15,7 +15,7 @@ Materials, exercises and examples for FMI Artificial Intelligence Course
 | 05 | Games                             |      [PDF](official-materials/games.pdf)       |            [Notebook](notes/games/games.ipynb)            |
 | 06 | Machine Learning Intro            |     [PDF](official-materials/ml-intro.pdf)     |         [Notebook](notes/ml-intro/ml-intro.ipynb)         |
 | 07 | kNN                               |       [PDF](official-materials/knn.pdf)        |                             -                             |
-| 08 | Naive Bayes                       |                                                |                                                           |
+| 08 | Naive Bayes                       |   [PDF](official-materials/naive-bayes.pdf)    |      [Notebook](notes/naive-bayes/naive-bayes.ipynb)      |
 | 09 | Decision Tree                     |                                                |                                                           |
 | 10 | Clustering                        |                                                |                                                           |
 | 11 | Neural Networks                   |                                                |                                                           |
