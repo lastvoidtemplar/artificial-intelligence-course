@@ -34,3 +34,4 @@ venv/
 
 # --- Fmi Ai Judge ---
 .judge
+*.csv
