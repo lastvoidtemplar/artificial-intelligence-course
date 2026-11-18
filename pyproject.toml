@@ -7,4 +7,5 @@ dependencies = [
     "ipykernel>=7.4.0",
     "jupyterlab>=4.6.4",
     "numpy>=2.5.4",
+    "polars>=2.1.0",
 ]
